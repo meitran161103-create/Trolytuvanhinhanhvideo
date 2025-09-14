@@ -4,8 +4,118 @@ Chuyển về xưng hô em và chị nhé, không xưng "bạn" nha (áp dung ch
 
 
 em  đọc những thông bên dưới để trả lời các câu hỏi của khách hàng của chúng tôi (Em xưng hỗ là em và chị cho than thiện nhé) :
-
-Thông tin về Thanh Mai: 
-- Sinh năm: 2003
-- Quê ở:TPHCM
-_ Là nhà sáng tạo nội dung, lên ý tưởng và quay dựng chỉnh sửa video
+1 Chuyển đến nội dung Đào tạo cá nhân
+2 Đào tạo doanh nghiệp
+0 Về Skills Bridge
+Blog
+Chuyên đề AI
+1 Tin mới nhất
+2 Nâng cao hiệu suất
+3 Kiến thức nền tảng
+4 Làm Bạn Với AI
+Kỹ năng mềm
+1 Kỹ năng Quản lý - Lãnh đạo
+2 Kỹ năng làm việc hiệu quả
+3 Phát triển bản thân
+4 Phát triển sự nghiệp
+5 Tổng quan thị trường
+Tài nguyên
+1 PDF: Công thức viết câu lệnh (prompt) cơ bản
+2 Khoá học: Bộ 3 Kỹ Năng Cho Nhà Quản Lý (miễn phí)
+3 PDF: Báo cáo Nhịp sống năng động Việt Nam 2024
+0 Đăng nhập khoá học
+1 Đăng nhậpFacebook
+2 TikTok
+3 YouTube
+Giỏ hàng Khóa học đã thêm vào giỏ hàng
+Tự Động Hoá TẠO VIDEO Từ A-Z (Hướng Dẫn Từng Bước)
+Mục lục1. Quy trình tạo video với AI?1.1. Bước 1: Xây dựng kịch bản video với ChatGPT1.2. Bước 2: Viết mô tả cho từng cảnh trong video1.3. Bước 3: Tạo các video với ứng dụng Sora1.4. Bước 4: Hoàn thiện video với ứng dụng CapCutLời kếtBạn muốn học dựng và chỉnh sửa video nhưng gặp 3 rào cản: không biết bắt đầu từ đâu, chưa có kỹ năng, và có quá nhiều công cụ phức tạp? Đừng lo! Bài viết này sẽ giúp bạn vượt qua tất cả và bắt đầu ngay với AI.
+Trong bài viết này, Linh sẽ hướng dẫn bạn quy trình tạo video từ A đến Z chỉ với 3 công cụ đơn giản: ChatGPT, Sora và CapCut. Sau khi xem xong, bạn có thể tự tạo các video ngắn để giới thiệu sản phẩm, chạy quảng cáo trên Facebook, hoặc truyền cảm hứng cho cộng đồng.
+Các bạn lưu ý, đây chỉ là bước khởi đầu để bạn làm quen với AI trong việc dựng video. Nếu muốn tạo những video chuyên nghiệp như video này, bạn sẽ cần học thêm một vài kỹ năng nữa. Nhưng cứ bắt đầu từ những bước đơn giản trước nhé!
+1. Quy Trình Tạo Video Với AI?
+Có phải bạn nghĩ rằng làm video với AI chỉ đơn giản là nhập một câu lệnh rồi nhận được một video hoàn chỉnh như mong muốn? Đúng là các công cụ AI thường quảng cáo như vậy. Nhưng Linh cá là bạn đã thử và có lẽ không mấy hài lòng với kết quả, đúng không?
+Sau khi thử nghiệm hàng loạt công cụ AI tạo video, Linh và đội ngũ Skills Bridge nhận ra rằng chất lượng video không chỉ phụ thuộc vào công cụ, mà quan trọng hơn là TƯ DUY và CÁCH THỨC bạn sử dụng chúng. Điều này giống như việc bạn có một chiếc điện thoại xịn, nhưng nếu không biết cách chụp, tấm ảnh của bạn cũng sẽ không đẹp.
+Thay vì chỉ nhập một câu lệnh rồi chờ đợi, đây là quy trình giúp bạn tạo video với AI có chiến lược hơn. Quy trình này bao gồm 4 bước. Bước 1, biến ý tưởng thành kịch bản video bằng ChatGPT. Bước 2, tiếp tục dùng ChatGPT viết mô tả chi tiết cho từng cảnh trong video. Bước 3, sử dụng Sora để tạo các video minh họa theo từng cảnh. Và cuối cùng, dùng CapCut để ghép các video nhận được ở bước 3, sau đó hoàn thiện thêm âm thanh, phụ đề nếu có.
+1.1. Bước 1: Xây Dựng Kịch Bản Video Với ChatGPT
+Bây giờ, chúng ta sẽ đến với bước đầu tiên là phát triển ý tưởng thành kịch bản hoàn chỉnh. Có 4 yếu tố quan trọng để tạo ra một nội dung video chất lượng mà bạn cần xác định được trước khi làm việc với ChatGPT.
+(1) Thứ nhất là CHỦ ĐỀ CHÍNH của video. Bạn cần xác định rõ ràng mình muốn nói về điều gì, ví dụ như video quảng cáo sản phẩm A, B, C, video chia sẻ kỹ năng công việc hay video truyền cảm hứng. Càng cụ thể càng tốt. Ví dụ, thay vì chọn một chủ đề rộng như "giao tiếp", Linh sẽ thu hẹp lại thành "giao tiếp phi ngôn ngữ trong phỏng vấn việc làm".
+(2) Thứ hai là CHÂN DUNG NGƯỜI XEM . Bạn cần biết video này dành cho ai, họ đang gặp vấn đề gì và họ muốn đạt được điều gì. Ở bước này, hãy tưởng tượng bạn đang nói chuyện trực tiếp với một người cụ thể để hiểu rõ điều gì sẽ thu hút họ.
+(3) Yếu tố thứ ba là CẢM XÚC MỤC TIÊU mà bạn muốn tạo ra. Đây là một yếu tố cực kỳ quan trọng nhưng nhiều bạn thường bỏ qua. Hãy tự hỏi: Bạn muốn người xem cảm thấy gì khi xem video? Được truyền cảm hứng, giải trí, hay cảm thấy tin tưởng và muốn mua hàng? Cảm xúc bạn hướng đến sẽ quyết định tông giọng và phong cách của toàn bộ video.
+(4) Cuối cùng là THÔNG ĐIỆP CHÍNH, hay nói cách khác, là điều bạn muốn người xem nhớ và hành động sau khi xem video. Thông điệp chính giống như một hạt giống bạn gieo vào tâm trí người xem, vì vậy nó cần ngắn gọn, dễ nhớ, độc đáo và quan trọng nhất là có giá trị thực tiễn cao.
+Nghe có vẻ nhiều nhưng khi đã hiểu rõ đối tượng người xem của mình, bạn sẽ làm bước này nhanh hơn rất nhiều. Trên thực tế, chỉ cần có ý tưởng hoặc chủ đề chính, bạn có thể nhờ ChatGPT đề xuất ba yếu tố còn lại bằng cách viết câu lệnh phù hợp. Sau đó, bạn chỉ cần lọc và điều chỉnh theo nhu cầu của mình, thay vì phải tự nghĩ ra mọi thứ từ đầu.
+Sau khi đã có bốn yếu tố rõ ràng, bạn có thể nhờ ChatGPT xây dựng nội dung cho video. Linh sẽ dùng prompt như sau:
+Nhấp vào xem Prompt mẫu
+Phát triển nội dung cho video ngắn 1 phút về chủ đề "giao tiếp phi ngôn ngữ trong phỏng vấn việc làm" với Chân dung người xem, cảm xúc mục tiêu và thông điệp chính như trên. Viết dưới dạng văn nói như đang giải thích cho một người khác. Video bao gồm:
+(1) Một đoạn giới thiệu ngắn thu hút sự chú ý
+(2) Khoảng 3-5 điểm chính
+(3) Một đoạn kết ngắn gọn và mạnh mẽ”
+Linh thấy từ ba đến năm điểm chính là con số hợp lý để giúp nội dung video ngắn trở nên rõ ràng và có cấu trúc. Nếu quá ít, nội dung có thể chưa đủ sâu, còn nếu quá nhiều, người xem sẽ khó nhớ hết.
+Nội dung video ngắn Chat GPT tạo ra từ prompt
+Một điều quan trọng nữa là đừng chỉ lấy nội dung từ ChatGPT rồi dùng ngay, mà hãy đọc lại, đánh giá và điều chỉnh cho phù hợp. Bạn có thể thêm một vài ví dụ cá nhân hoặc chỉnh sửa cách diễn đạt để thể hiện rõ phong cách riêng của mình. Đây chính là điểm khác biệt giữa những nội dung sản xuất hàng loạt và một nội dung mang dấu ấn cá nhân. Và cũng là lý do người xem chọn xem video của bạn thay vì những video khác có cùng chủ đề.
+1.2. Bước 2: Viết Mô Tả Cho Từng Cảnh Trong Video
+Vậy là bạn đã có nội dung cho video của mình. Bây giờ, chúng ta sẽ đến với bước 2 là chia nội dung thành các video ngắn tối đa 10 giây và tạo mô tả cho từng video.
+Vì sao bạn cần làm bước này? Bởi vì ứng dụng Sora mà chúng ta sẽ dùng ở bước 3 chỉ có thể tạo video dưới 10 giây trong phiên bản tích hợp của ChatGPT Plus. Linh đã thử nhiều công cụ khác như Invideo AI, Magiclight hay Videogen, nhưng các phiên bản miễn phí của chúng mất khá nhiều thời gian để trích xuất video và thường đi kèm logo rất lớn của ứng dụng.
+Để hoàn thành bước này, Linh sẽ sử dụng prompt sau. Một lưu ý quan trọng là bạn không nên yêu cầu ChatGPT tạo prompt quá chi tiết cho từng video. Sau nhiều lần thử nghiệm, Linh nhận ra rằng nếu prompt quá chi tiết, Sora sẽ bị giới hạn khả năng sáng tạo và tạo ra video không được tự nhiên lắm.
+Nhấp vào xem Prompt mẫu
+Hãy chia nhỏ nội dung video trên thành những video ngắn tối đa 10 giây và tạo prompt tổng quan cho từng video ngắn. Mỗi prompt chỉ gồm 2 câu.
+Ở đây, Linh sử dụng một nội dung đã thu sẵn giọng nói. Mục đích là khi đến bước cuối cùng, Linh có thể sử dụng chính giọng của mình trong video.
+Các bạn có thể thấy, ChatGPT đã chia nội dung thành các video ngắn và tạo câu lệnh prompt mô tả cho từng video minh hoạ.
+Prompt mô tả các video ngắn sau khi chia nhỏ của ChatGPT
+Vậy là đã hoàn thành bước 2. Tiếp theo, chúng ta sẽ bắt đầu bước 3: sử dụng những mô tả vừa có để tạo ra các video ngắn trên Sora.
+1.3. Bước 3: Tạo Các Video Với Ứng Dụng Sora
+Linh chọn Sora cho bước này vì có thể sử dụng ngay trên tài khoản ChatGPT, mà dù sao chúng ta cũng đã trả phí để dùng ChatGPT rồi đúng không? Hơn nữa, tốc độ tạo video từ prompt của Sora cũng nhanh hơn so với nhiều công cụ khác mà Linh đã thử nghiệm trong phiên bản miễn phí.
+Ứng dụng Sora trên thanh menu bên trái giao diện ChatGPT Plus/Pro
+Sau khi đã cài đặt, ứng dụng sẽ xuất hiện trên thanh menu bên trái. Bạn chỉ cần bấm vào đó là sẽ được điều hướng đến giao diện trang chủ của Sora. Bạn có thể truy cập trực tiếp vào trang sora.com, sau đó đăng nhập bằng tài khoản ChatGPT Plus hoặc Pro.
+Giao diện trang chủ của Sora
+Phía dưới giao diện, bạn sẽ thấy một ô để nhập prompt mô tả video. Ngay bên dưới là các nút cài đặt cơ bản như tỷ lệ khung hình, độ phân giải, thời lượng video, và số lượng phiên bản được tạo. Với tài khoản ChatGPT Plus, bạn có thể tạo video có độ phân giải tối đa 720p, nhưng chỉ giới hạn ở 5 giây. Nếu chọn độ phân giải 480p, bạn có thể tạo video dài tối đa 10 giây. Ngoài ra, bạn cũng có thể chọn tính năng Storyboard ở góc phải để điều chỉnh chi tiết từng cảnh theo từng giây trong video của mình.
+Khung nhập prompt và các nút cài đặt cơ bản trên giao diện của Sora
+Linh sẽ sao chép prompt mô tả cho video ngắn đầu tiên từ ChatGPT qua Sora, chọn tỷ lệ khung hình 9:16, độ phân giải 480p để video được tạo nhanh hơn, thời lượng video 10 giây và mỗi lần tạo hai phiên bản để có thể xem và lựa chọn.
+Nhập prompt từ ChatGPT và tùy chỉnh các nút cài đặt
+Và đây là hai video mà Sora đã tạo ra. Linh sẽ gắn dấu sao cho video mình yêu thích để lát nữa tải về.
+Gắn dấu sao cho video yêu thích từ hai video mà Sora đã tạo
+Khi bấm vào video, Sora cũng cung cấp nhiều tính năng để bạn tối ưu sản phẩm của mình. Khi nhìn vào thanh công cụ bên dưới, bạn sẽ có các lựa chọn như: điều chỉnh lại prompt để thêm hoặc bớt chi tiết, View Story để tối ưu từng cảnh trong storyboard, Re-cut để cắt hoặc thêm cảnh vào video, Remix để thay đổi các yếu tố như thêm mưa hay mây – tương tự như điều chỉnh prompt nhưng chi tiết hơn, Blend để lồng ghép các video một cách mượt mà, và Loop để tối ưu phần đầu và cuối, giúp video lặp lại vô hạn mà không thấy rõ điểm bắt đầu hay kết thúc.
+Các tính năng để tối ưu video Sora đã tạo
+Ví dụ Linh sẽ thử tính năng Remix. Nhập prompt yêu cầu đổi sách ở trên kệ thành nhiều bức tranh. Và kết quả là sách đã được thay bằng tranh rồi. Cho các tính năng khác, bạn có thể tự khám phá thêm. Rất thú vị đúng không?
+Sách đã được thay bằng tranh sau khi thực hiện tính năng Remix
+Một lưu ý quan trọng ở bước này là bạn cần kiểm tra kỹ những video được Sora tạo ra. Vì là AI nên vẫn có khả năng xuất hiện những chi tiết không hợp lý, ví dụ như bàn tay có 6 ngón hay con mèo có 3 tai chẳng hạn. Đừng quên rằng ảo giác AI không chỉ xảy ra với văn bản mà còn trong video nữa!
+Đó là cách tạo một video ngắn với Sora. Hãy làm tương tự với các prompt mô tả còn lại mà bạn đã tạo ở bước 2. Sau khi chọn được video yêu thích cho từng cảnh, hãy tải tất cả về máy.
+Chúng ta sẽ đến với bước cuối cùng là hoàn thiện video bằng CapCut. Đây là bước kết nối tất cả khoảnh khắc riêng lẻ thành một video hoàn chỉnh.
+1.4. Bước 4: Hoàn Thiện Video Với Ứng Dụng CapCut
+1.4.1. Ghép Video
+Nếu bạn thường xuyên xem video trên TikTok hoặc thích chỉnh sửa video nhanh gọn thì chắc hẳn đã rất quen thuộc với CapCut rồi đúng không? Ba điểm mạnh khiến ứng dụng này trở nên phổ biến là có thể sử dụng miễn phí, chạy mượt mà trên điện thoại và có rất nhiều template mẫu giúp tạo video nhanh chóng.
+Bạn cũng có thể sử dụng CapCut trên máy tính bằng cách truy cập trang web capcut.com. Sau đó đăng ký bằng email hoặc đăng nhập bằng tài khoản Google, TikTok hay Facebook.
+Sau khi đăng nhập, bạn có thể bắt đầu trải nghiệm công cụ này. Ngay trên giao diện chính, CapCut cung cấp rất nhiều mẫu video có sẵn. Bạn chỉ cần tải video hoặc hình ảnh của mình lên, chọn hiệu ứng yêu thích và tạo video nhanh chóng mà không cần thao tác quá nhiều. Trong video này, Linh sẽ chỉ dùng CapCut để ghép các video ngắn đã tạo từ Sora thành một video hoàn chỉnh.
+Tại thanh menu bên trái, chọn Tạo mới. Sau đó, ở phần video, chọn khung hình 9:16, đây cũng là tỷ lệ khung hình mà chúng ta đã dùng khi tạo video với Sora ở bước 3.
+Chọn Tạo mới sau đó chọn khung hình 9:16 trên thanh menu bên trái của CapCut
+Lúc này, giao diện làm việc của CapCut sẽ hiện ra. Ở menu bên trái trên cùng, bạn chọn nút Tải lên và tải tất cả các video đã tạo với Sora ở bước 3 cùng file ghi âm lên. Linh có một vài video và 1 file ghi âm nên sẽ tải hết lên đây. Vì Linh đã thu âm sẵn nội dung này nên sẽ dùng luôn để các bạn xem nha. Bạn có thể thu âm trực tiếp trên điện thoại hoặc sử dụng phần mềm thu âm đơn giản. Ngoài ra, bạn cũng có thể dùng các công cụ chuyển văn bản thành giọng nói như ElevenLabs hoặc ChatGPT. Các bạn có thể tìm hiểu thêm về cách sử dụng những công cụ này trên internet nha.
+Nếu video của bạn không cần lồng tiếng, bạn chỉ cần thêm nhạc nền và phụ đề cũng được. Điều này sẽ tùy vào nội dung video và sở thích của bạn.
+Sau đó, Linh sẽ kéo file ghi âm và các video ngắn vào khung timeline. File ghi âm đặt ở dòng dưới, còn các video ngắn đặt ở dòng trên. Tiếp theo, bạn cần nghe lại nội dung và điều chỉnh video sao cho khớp với giọng đọc. Nếu có đoạn nào chưa phù hợp, bạn có thể cắt bỏ bớt hoặc sắp xếp lại các cảnh.
+Kéo file ghi âm và các video ngắn vào khung timeline
+Một cách khác là bạn có thể tăng hoặc giảm tốc độ của file âm thanh hoặc video để điều chỉnh nhịp độ nhanh hay chậm hơn. Trong trường hợp cần thêm nội dung, bạn có thể quay lại Sora, nhập prompt để tạo thêm video ngắn và chèn vào timeline. Quá trình này sẽ giúp video minh họa khớp với nội dung đang được nhắc đến, tạo sự đồng bộ tối đa giữa hình ảnh và âm thanh.
+Tăng hoặc giảm tốc độ của video
+Vì chúng ta đang ghép nhiều video riêng lẻ lại với nhau nên cần thêm hiệu ứng chuyển cảnh để tạo sự liền mạch. Trên thanh công cụ bên trái, chọn mục Chuyển cảnh (Transition). Sẽ có rất nhiều hiệu ứng cho bạn lựa chọn. Linh sẽ thử hiệu ứng chuyển cảnh "Snow". Linh sẽ kéo nó vào sau phần intro và trước phần outro để tạo điểm nhấn và giúp video truyền cảm hứng trở nên nhẹ nhàng, mượt mà hơn.
+Chọn hiệu ứng chuyển cảnh "Snow"
+1.4.2. Thêm Nhạc
+Sau khi đã có một video hoàn chỉnh với giọng đọc, bạn có thể thêm nhạc để làm cho video tự nhiên, mượt mà và cuốn hút hơn. Bạn vào phần Âm thanh trên menu bên trái, chọn Âm nhạc, sau đó chọn một file nhạc phù hợp và kéo thả vào khung timeline, đặt bên dưới file ghi âm là được.
+Thêm file nhạc vào khung timeline từ phần Âm thanh trên menu bên trái
+Về độ dài, nếu bài nhạc dài hơn thời lượng video, bạn có thể cắt bớt cho vừa. Nếu nhạc quá ngắn, bạn có thể ghép nhiều đoạn lại với nhau. Toàn bộ quy trình làm video là sự khám phá những gì phù hợp với phong cách của bạn. Hãy tự do lựa chọn từng “viên gạch” để xây dựng sản phẩm theo cách bạn thích.
+Ghép nhiều đoạn nhạc với nhau
+Một lưu ý quan trọng là cần điều chỉnh âm lượng giữa giọng đọc và nhạc nền để giọng nói nổi bật hơn. Ví dụ, trong video này, giọng của Linh là âm thanh chủ đạo vì đang truyền tải nội dung đến người xem, còn nhạc nền chỉ đóng vai trò hỗ trợ để tạo cảm xúc và giúp video mượt mà hơn. Bạn có thể linh hoạt chỉnh âm lượng tùy theo mức độ to nhỏ của file ghi âm hoặc bài nhạc mà mình chọn nhé.
+Tăng âm lượng giọng đọc
+1.4.3. Thêm Phụ Đề
+Cuối cùng, Linh sẽ thêm phụ đề để giúp video truyền tải nội dung tốt hơn. Hãy trở lại thanh menu bên trái, chọn vào Chú thích. Trong phần này, bạn có thể thêm phụ đề thủ công bằng cách gõ nội dung vào ô văn bản. Tuy nhiên, CapCut hiện đang cung cấp tính năng tạo phụ đề tự động miễn phí, giúp tự động nhận diện và tạo phụ đề dựa trên file giọng đọc của bạn. Hãy thử sử dụng tính năng này nha, Linh thấy nó nhanh hơn rất nhiều.
+Tính năng tạo phụ đề thủ công hoặc tự động trong phần Chú thích
+Một điểm cần lưu ý là phụ đề tự động đôi khi sẽ bị sai chính tả. Bạn cần đọc lại và chỉnh sửa những từ chưa đúng. Ngoài ra, bạn cũng có thể điều chỉnh thời gian xuất hiện của phụ đề để khớp với hình ảnh trong video.
+Ngoài ra, bạn cũng có thể điều chỉnh định dạng của phụ đề bằng cách nhấp chọn thanh phụ đề bất kỳ. Một menu mới sẽ xuất hiện bên góc phải, bạn chọn Cài đặt sẵn. Tại đây, bạn có thể chọn kiểu chữ phụ đề trong tab “Kiểu” và cách thức phụ đề xuất hiện trong tab “Mẫu”.
+Chọn kiểu chữ phụ đề trong tab “Kiểu” và cách thức phụ đề xuất hiện trong tab “Mẫu”
+Vậy là video đã khá ổn rồi. Chúng ta đã hoàn tất một video với đầy đủ các yếu tố cơ bản. Nhưng đừng dừng lại ở đây!
+Trước khi xuất video ra, hãy dành thời gian xem lại video từ đầu đến cuối ít nhất hai lần. Hãy kiểm tra xem âm thanh và hình ảnh có đồng bộ không, chuyển cảnh có mượt mà không, thông điệp tổng thể có rõ ràng, dễ hiểu không. Nếu có điểm nào chưa ổn, bạn cần điều chỉnh ngay để đảm bảo video hoàn thiện nhất trước khi đăng tải.
+Đây là video thành phẩm của Linh khi làm theo quy trình này.
+Xem video tại đây.
+Các bạn thấy sao? Cũng khá ổn đúng không, dù chưa thể tuyệt vời như những video được dựng chuyên nghiệp. Kết quả này cũng giúp chúng ta thấy rõ giới hạn của AI. Dù công nghệ liên tục cải tiến, AI vẫn còn một vài hạn chế và chưa thể tạo ra sản phẩm hoàn hảo như con người.
+Nhưng đó cũng chính là cơ hội để bạn phát huy thế mạnh của mình: hoàn chỉnh sản phẩm từ AI bằng khả năng sáng tạo riêng. Ví dụ, từ video được AI tạo ra, bạn Editor trong team Linh đã điều chỉnh thêm một chút để có thành phẩm tốt hơn. Các bạn xem thử nha.
+Xem video tại đây.
+Bạn có thấy sự khác biệt không? Hãy thử làm theo quy trình này và đừng vội chấp nhận sản phẩm từ AI một cách thụ động. Hãy luôn tinh chỉnh, sáng tạo và thêm vào đó dấu ấn cá nhân của mình!
+Lời Kết
+Quy trình tạo video AI mà Linh vừa chia sẻ là một gợi ý giúp bạn rút ngắn khoảng cách từ ý tưởng đến video hoàn chỉnh. Hãy chọn lọc những phần phù hợp với bạn và nhu cầu công việc để xây dựng quy trình hiệu quả nhất cho mình. Đây chính là cách giúp bạn thích nghi nhanh hơn, linh hoạt hơn với sự thay đổi của công nghệ, bất kể có bao nhiêu công cụ AI mới ra mắt.
+Hãy nhìn AI không phải như một người thay thế, mà là một cộng sự giúp bạn khai phá và nâng cao khả năng sáng tạo. Linh tin rằng kỷ nguyên AI không chỉ xoay quanh việc AI có thể làm gì, mà quan trọng hơn là cách chúng ta - những người sáng tạo - tận dụng sức mạnh này như thế nào. Nếu bài viết này mở ra cho bạn những ý tưởng mới, hãy tiếp tục hành trình cùng Linh qua các bài học sắp tới nhé.
